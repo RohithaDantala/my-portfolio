@@ -22,6 +22,14 @@ I am **Rohitha Lakshmi**, a Full Stack Web Developer passionate about creating i
 - **Responsive Design**: Clean and professional appearance
 
 
+## 📸 Screenshots
+
+### Portfolio Page
+
+![portfolio1 png](https://github.com/user-attachments/assets/5764a112-4873-4823-85d7-f2acda8785a7)
+
+![portfolio2 png](https://github.com/user-attachments/assets/d007cebf-b7b6-4ae3-bd14-48746cac6bc0)
+
 
 ## 📁 Project Structure
 
@@ -30,6 +38,9 @@ portfolio/
 ├── portfolio.html          # Main HTML file
 ├── profile.jpeg        # Profile image
 ├── README.md          # Project documentation
+├── screenshots/
+│   ├── portfolio1.png
+│   └── portfolio2.png
 └── assets/            # Additional assets (if any)
 ```
 
