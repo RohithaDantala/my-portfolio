@@ -27,7 +27,7 @@ I am **Rohitha Lakshmi**, a Full Stack Web Developer passionate about creating i
 
 ```
 portfolio/
-├── index.html          # Main HTML file
+├── portfolio.html          # Main HTML file
 ├── profile.jpeg        # Profile image
 ├── README.md          # Project documentation
 └── assets/            # Additional assets (if any)
